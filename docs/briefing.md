@@ -1,6 +1,6 @@
 # Briefing inicial del cliente
 
-|                     |                                                            |
+| Propiedad           | Valor                                                      |
 |---------------------|------------------------------------------------------------|
 | NOMBRE PROYECTO     | CONCURSO FORMACIÓN GAMIFICACIÓN DOLOR IRRUPTIVO ONCOLÓGICO |
 | Nº PROYECTO         | MTA010003                                                  |
