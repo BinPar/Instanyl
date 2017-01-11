@@ -1,15 +1,14 @@
 # Briefing inicial del cliente
 
-| | |
-|-|-|
-|NOMBRE PROYECTO|CONCURSO FORMACIÓN GAMIFICACIÓN DOLOR IRRUPTIVO ONCOLÓGICO|
-|Nº PROYECTO|MTA010003|
-|MARCA|INSTANTYL|
-|LABORATORIO|TAKEDA|
-|FECHA BRIEF CLIENTE|4/01/17|
-|FECHA BRIEF AGENCIA|10/01/17|
-|EQUIPO CUENTAS|CARLA|
-|EQUIPO INTERNO|DANI, ELENA, CARLA Y BINPAR|
+| NOMBRE PROYECTO     | CONCURSO FORMACIÓN GAMIFICACIÓN DOLOR IRRUPTIVO ONCOLÓGICO |
+|---------------------|------------------------------------------------------------|
+| Nº PROYECTO         | MTA010003                                                  |
+| MARCA               | INSTANTYL                                                  |
+| LABORATORIO         | TAKEDA                                                     |
+| FECHA BRIEF CLIENTE | 4/01/17                                                    |
+| FECHA BRIEF AGENCIA | 10/01/17                                                   |
+| EQUIPO CUENTAS      | CARLA                                                      |
+| EQUIPO INTERNO      | DANI, ELENA, CARLA Y BINPAR                                |
 
 ##Tarea
 
