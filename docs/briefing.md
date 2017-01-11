@@ -106,3 +106,4 @@ Naming y logo de proyecto
 
 ## Otra documentación
 
+(BoletÍn terapéutico tto dolor irruptivo.pdf)[resources/170110 BoletÍn terapéutico tto dolor irruptivo.pdf]
