@@ -103,3 +103,6 @@ Naming y logo de proyecto
 ## Feha y presentación de condiciones
 
 24 de enero. Pte confirmar hora. Concursamos con 4 agencias de salud
+
+## Otra documentación
+
