@@ -8,8 +8,8 @@
 | LABORATORIO         | TAKEDA                                                     |
 | FECHA BRIEF CLIENTE | 4/01/17                                                    |
 | FECHA BRIEF AGENCIA | 10/01/17                                                   |
-| EQUIPO CUENTAS      | CARLA                                                      |
-| EQUIPO INTERNO      | DANI, ELENA, CARLA Y BINPAR                                |
+| INTERLOCUTOR        | CARLA                                                      |
+| EQUIPO INTERNO      | NACHO, NICO, CARULA, DANI, ELENA, CARLA                    |
 
 ##Tarea
 
