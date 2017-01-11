@@ -106,8 +106,8 @@ Naming y logo de proyecto
 
 ## Documentación adicional para el diseño de la experiencia 
 
--[Boletín terapéutico tratamiento dolor irruptivo](resources/170110 BoletÍn terapéutico tto dolor irruptivo.pdf)
--[Cuidados paliativos dolor irruptivo](resources/170110 Cuidados paliativos dolor irruptivo.pdf)
--[Dolor_bajo_control](resources/170110 Dolor_bajo_control_II.pdf)
--[Revisiones MBA](resources/170110 revisiones_mba.pdf)
--[Tratamiento del dolor irruptivo](resources/170110 Tratamiento del dolor irruptivo.pdf)
+- [Boletín terapéutico tratamiento dolor irruptivo](resources/170110 BoletÍn terapéutico tto dolor irruptivo.pdf)
+- [Cuidados paliativos dolor irruptivo](resources/170110 Cuidados paliativos dolor irruptivo.pdf)
+- [Dolor_bajo_control](resources/170110 Dolor_bajo_control_II.pdf)
+- [Revisiones MBA](resources/170110 revisiones_mba.pdf)
+- [Tratamiento del dolor irruptivo](resources/170110 Tratamiento del dolor irruptivo.pdf)
