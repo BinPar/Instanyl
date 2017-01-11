@@ -77,9 +77,9 @@ Serio, creíble, que no aburrido, con el componente lúdico indispensable, que r
 
 ## Cuestiones digitales a tener en cuenta
 
-1ª FASE: EL MÉDICO JUEGA EN SU CASA
+- 1ª FASE: EL MÉDICO JUEGA EN SU CASA
 En ese sentido la app deberá estar disponible en android e IOS
-2ª FASE: EL MÉDICO JUEGA EN LA REUNIÓN
+- 2ª FASE: EL MÉDICO JUEGA EN LA REUNIÓN
 Pondremos a disposición de los médicos iPads, por ejemplo.  
 
 -	La app requerirá login
