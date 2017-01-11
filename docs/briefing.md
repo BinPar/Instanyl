@@ -8,8 +8,8 @@
 | LABORATORIO         | TAKEDA                                                     |
 | FECHA BRIEF CLIENTE | 4/01/17                                                    |
 | FECHA BRIEF AGENCIA | 10/01/17                                                   |
-| INTERLOCUTOR        | CARLA                                                      |
-| EQUIPO INTERNO      | NACHO, NICO, CARULA, DANI, ELENA, CARLA                    |
+| INTERLOCUTOR        | [Carla Chaves](mailto:cchaves@mkmedia.es)                  |
+| EQUIPO INTERNO      | Nacho, Nico, Carula, Elena, Carla                          |
 
 ##Tarea
 
