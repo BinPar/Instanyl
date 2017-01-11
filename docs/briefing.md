@@ -1,7 +1,6 @@
 # Briefing inicial del cliente
 
 | NOMBRE PROYECTO     | CONCURSO FORMACIÓN GAMIFICACIÓN DOLOR IRRUPTIVO ONCOLÓGICO |
-|---------------------|------------------------------------------------------------|
 | Nº PROYECTO         | MTA010003                                                  |
 | MARCA               | INSTANTYL                                                  |
 | LABORATORIO         | TAKEDA                                                     |
