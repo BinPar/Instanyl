@@ -1,4 +1,4 @@
-# Instantyl
+# Instanyl
 
 Concurso formación gamificación dolor irruptivo oncológico
 
