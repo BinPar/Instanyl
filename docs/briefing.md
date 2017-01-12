@@ -4,7 +4,7 @@
 |---------------------|------------------------------------------------------------|
 | NOMBRE PROYECTO     | CONCURSO FORMACIÓN GAMIFICACIÓN DOLOR IRRUPTIVO ONCOLÓGICO |
 | Nº PROYECTO         | MTA010003                                                  |
-| MARCA               | INSTANTYL                                                  |
+| MARCA               | INSTANYL                                                   |
 | LABORATORIO         | TAKEDA                                                     |
 | FECHA BRIEF CLIENTE | 4/01/17                                                    |
 | FECHA BRIEF AGENCIA | 10/01/17                                                   |
