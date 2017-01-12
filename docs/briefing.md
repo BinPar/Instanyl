@@ -47,11 +47,16 @@ Necesita receta médica «especial», es decir, dado que este medicamento puede 
 >Detallar en profundidad el perfil del público al que nos dirigimos
 
 Las 5 especialidades a las que nos dirigimos tienen un abordaje diferente hacia el dolor:
-Oncomédico: es el que más ve al paciente con dolor irruptivo oncológico. No le importa tanto el dolor. Perfil muy médico y científico, que le importa más la eficacia del tratamiento 
-Hemato: ve a muchos pacientes con dolor. No le importa tanto el dolor. Perfil muy médico y científico, que le importa más la eficacia del tratamiento 
-Oncoradio: ven muchos pacientes con dolor, ya que los pacientes que reciben radioterapia con intención radical o paliativa, presentan gran toxicidad, que se manifiesta con dolor. 
-Unidad del dolor: tratan el dolor directamente y derivan a todos los médicos  
-Paliativo: Muy comprometidos. Ven al paciente hospitalizado en sus últimos días. Tienen un perfil más parecido a atención primaria 
+
+**Oncomédico**: es el que más ve al paciente con dolor irruptivo oncológico. No le importa tanto el dolor. Perfil muy médico y científico, que le importa más la eficacia del tratamiento.
+
+**Hemato**: ve a muchos pacientes con dolor. No le importa tanto el dolor. Perfil muy médico y científico, que le importa más la eficacia del tratamiento.
+
+**Oncoradio**: ven muchos pacientes con dolor, ya que los pacientes que reciben radioterapia con intención radical o paliativa, presentan gran toxicidad, que se manifiesta con dolor. 
+
+**Unidad del dolor**: tratan el dolor directamente y derivan a todos los médicos.
+
+**Paliativo**: Muy comprometidos. Ven al paciente hospitalizado en sus últimos días. Tienen un perfil más parecido a atención primaria.
 
 En general, aunque la práctica clínica se aborda de forma diferente en función de la especialidad y del hospital, el dolor irruptivo oncológico está infradiagnosticado. Tratan el dolor de base y no el irruptivo. Les interesa más siguientes pasos del tratamiento, más que el dolor
 
