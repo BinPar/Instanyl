@@ -4,7 +4,7 @@ Concurso formación gamificación dolor irruptivo oncológico
 
 ## Fechas clave concurso
 
-- **Lunes 16 de enero**: Reunión para presentación de ideas de gamificación. Os propongo que sea por la tarde, a las 16h, por ejemplo os va bien?Si me confirmas, te convoco ya.
+- **Lunes 16 de enero**: Reunión para presentación de ideas de gamificación. Os propongo que sea por la tarde, a las 16h (Modificada finalmente por el cliente a las 9:30 del martes 17 de enero).
 - **Martes 17 enero**: se matizan, cambian, modulan, etc… las propuestas
 - **Miércoles 18 de enero**: tenemos idea creativa de gamificación ok y se define en equipo qué pantallas se deberían diseñar y qué contenidos abordar para poder vender la propuesta de gamificación
 - **Lunes 23 de enero**: Contenidos, pantallas y cotización lista. Se da briefing a equipo creativo mk para naming y logo de proyecto.
