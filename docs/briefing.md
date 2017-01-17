@@ -112,7 +112,7 @@ Naming y logo de proyecto
 24 de enero. Pte confirmar hora. Concursamos con 4 agencias de salud
 
 ## Documentación adicional para el diseño de la experiencia 
-
+- [Resumen final científico](resources/resumen.pdf)
 - [Boletín terapéutico tratamiento dolor irruptivo](resources/170110 BoletÍn terapéutico tto dolor irruptivo.pdf)
 - [Cuidados paliativos dolor irruptivo](resources/170110 Cuidados paliativos dolor irruptivo.pdf)
 - [Dolor bajo control](resources/170110 Dolor_bajo_control_II.pdf)
