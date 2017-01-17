@@ -20,6 +20,10 @@ Esta cuenta será persistente entre dispositivos, pudiendo "autenticarme" en var
 
 En el mapa también podremos observar nuestro Score y los distintos "casos clínicos" que tenemos disponibles.
 
+Los distintos casos clínicos estarán representados por caras de pacientes (se visualizan como circulos con números en este caso).
+
+Lo que no están disponibles están velados y los ya realizados presentan el estado de ánimo del paciente: en una evolución entre cara de dolor y de bienestar.
+
 # La mecánica del juego 
 
 ![Pantalla 1](../design/resources/runner/juego-1.jpg)
