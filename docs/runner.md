@@ -71,18 +71,18 @@ Ambos afectan de manera negativa a nuestra carrera:
 
 Aparte de no permitirnos ver bien, dispondremos al final de la fase de un bonus de puntos por:
 
-Terminar con un nivel bajo de toxicidad
-Terminar con un nivel de dolor bajo
-El tiempo sobrante
-La cantidad de producto sobrante (se cuenta más adelante)
+- Terminar con un nivel bajo de toxicidad
+- Terminar con un nivel de dolor bajo
+- El tiempo sobrante
+- La cantidad de producto sobrante (se cuenta más adelante)
 
 Durante el transcurso de la fase nos encontraremos con distintos tipos de Power Ups:
 
-Incrementar la dosis de tratamiento base del dolor
-Decrementar la dosis de tratamiento base del dolor
-Instanyl 50 (Naranja)
-Instanyl 100 (Morado)
-Instanyl 200 (Azul verdoso)
+- Incrementar la dosis de tratamiento base del dolor
+- Decrementar la dosis de tratamiento base del dolor
+- Instanyl 50 (Naranja)
+- Instanyl 100 (Morado)
+- Instanyl 200 (Azul verdoso)
 
 Incrementar la dosis de tratamiento base del dolor haría que la pendiente del escenario se incline más hacia abajo (rotando unos grados) por lo que ganaremos velocidad y reduciremos el nivel de dolor (al bajar la altitud), sin embargo se incrementará el nivel de toxicidad.
 
