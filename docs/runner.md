@@ -90,4 +90,18 @@ Decrementar la dosis de tratamiento base del dolor tendrá el efecto inverso, ha
 
 En cierta manera estos dos potenciadores del tratamiento base nos permiten regular la pendiente para encontrar un compromiso entre los dos valores, haciendo que según valla evolucionando sea necesario coger algunos o dejarlos pasar.
 
-La estructura de cada “fase” será fija en lo referente a la curva y la localización de los distintos elementos por lo que el usuario deberá aprender donde saltar y que conviene coger en cada momento.
+La estructura de cada “fase” será fija (no aleatoria) en lo referente a la curva y la localización de los distintos elementos por lo que el usuario deberá aprender donde saltar y que conviene coger en cada momento.
+
+Los potenciados de Instanyl cargaran la barra de la parte inferior izquierda del interface acumulando producto según la cantidad correspondiente a cada uno de los 3 colores.
+
+![Pantalla 3](../design/resources/runner/juego-3.jpg)
+
+En determinados lugares nos encontraremos con subidas bruscas del nivel de dolor que no podremos saltar con facilidad ni superar (salvo que llevemos muchísima velocidad habiendo bajado elevado mucho el tratamiento base y por lo tanto disparado el nivel de toxicidad). Para sortear esto obstáculos deberemos emplear el Instanyl que tengamos acumulado.
+
+Pulsando sobre el botón de la zona izquierda y manteniéndolo pulsado veremos como dicho pico puntual se reduce progresivamente mientras va bajando la cantidad de producto almacenado.
+
+La idea es que mientras mantenemos el botón apretado se pare el tiempo y tengamos que ajustar mucho para intentar mantenerlo tiempo suficiente para que baje el obstáculo pero no demasiado para no quedarnos sin el y no elevar la toxicidad.
+
+Estas pulsaciones serán muy cortas variando según el tipo de obstáculo entre los 10 y los 1500 mili segundos aproximadamente.
+
+Esta combinación de dinámicas nos permite ilustrar la naturaleza del producto pudiendo diseñar fases que requieran distintas estrategias para su resolución.
