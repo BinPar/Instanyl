@@ -57,7 +57,7 @@ Un indicador a modo de mapa nos mostrará el punto del recorrido donde nos encon
 También se mostrarán otros dos indicadores:
 
 - Nivel de dolor (la altitud a la que me encuentro en este momento)
-- Nivel de toxicidad 
+- Nivel de toxicidad (que irá disminuyendo conforme pasa el tiempo)
 
 Ambos afectan de manera negativa a nuestra carrera:
 
