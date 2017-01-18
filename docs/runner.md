@@ -8,7 +8,7 @@ La idea esencial es desplazarnos por la curva de dolor al estilo “infinite run
 
 Actúa como pantalla de inicio y como principal metáfora de evolución, mostrando nuestro progreso y el de nuestros principales competidores.
 
-En la pare superior veremos las "vidas" que tenemos disponibles (que se recuperan con el transcurso del tiempo).
+En la parte superior veremos las "vidas" que tenemos disponibles (que se recuperan con el transcurso del tiempo).
 
 Este modelo de vidas con recuperación en el tiempo nos permitirá reforzar el efecto Zeigarnik que será uno de los potenciadores claves de la experiencia a largo plazo (junto con el prestigio social y el reto de evolución personal).
 
