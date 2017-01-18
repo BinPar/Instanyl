@@ -105,7 +105,7 @@ Pulsando sobre el botón de la zona izquierda y manteniéndolo pulsado veremos c
 
 La idea es que mientras mantenemos el botón apretado se pare el tiempo y tengamos que ajustar mucho para intentar mantenerlo tiempo suficiente para que baje el obstáculo, pero no demasiado para no quedarnos sin el y no elevar la toxicidad.
 
-Estas pulsaciones serán muy cortas variando según el tipo de obstáculo entre los 10 y los 1500 mili segundos aproximadamente.
+Estas pulsaciones serán muy cortas variando según el tipo de obstáculo entre los 10 y los 1500 milisegundos aproximadamente.
 
 Esta combinación de dinámicas nos permite ilustrar la naturaleza del producto pudiendo diseñar fases que requieran distintas estrategias para su resolución.
 
