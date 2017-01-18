@@ -12,15 +12,9 @@ En la pare superior veremos las "vidas" que tenemos disponibles (que se recupera
 
 Esta modelo de vidas con recuperación en el tiempo es el que nos permitirá potenciar el efecto Zeigarnik que será uno de los potenciadores claves de la experiencia a largo plazo (junto con el prestigio social y el reto de evolución personal).
 
-También podremos acceder a los rankings (general, por perfil y geográficos) desde los que podremos seleccionar los usuarios "favoritos" que apareceran destacados en el mapa.
-
-Ajustes nos permitir cambiar configuraciones del juego como el volumen y la cuenta asociada al mismo.
-
-Esta cuenta será persistente entre dispositivos, pudiendo "autenticarme" en varios y llevarme el avance de uno a otro.
-
 ![Mapa](../design/resources/runner/mapa.jpg)
 
-En el mapa también podremos observar nuestro Score y los distintos "casos clínicos" que tenemos disponibles.
+En el mapa podremos observar nuestro Score y los distintos "casos clínicos" que tenemos disponibles.
 
 Los distintos casos clínicos estarán representados por caras de pacientes.
 
@@ -37,6 +31,15 @@ Cada uno de los casos puedo haberlo superado con mayor o mejor nivel de éxito.
 Para cada uno habrá una puntuación mínima requerida para obtener dos o tres estrellas, incentivando la re-jugabilidad de los niveles hasta conseguir hacerlos perfectos.
 
 Bastará con terminar el nivel para obtener la primera estrella y poder pasar al siguiente, pero determinados puntos del recorrido solo podrán ser desbloqueados habiendo acumulado un Nº de estrellas determinado.
+
+![Ranking](../design/resources/runner/ranking.jpg)
+
+Medinte los botones de la parte superior derecha, también podremos acceder a los rankings (general, por perfil y geográficos) desde los que podremos seleccionar los usuarios "favoritos" que apareceran destacados en el mapa.
+
+Ajustes nos permitir cambiar configuraciones del juego como el volumen y la cuenta asociada al mismo.
+
+Esta cuenta será persistente entre dispositivos, pudiendo "autenticarme" en varios y llevarme el avance de uno a otro.
+
 
 # La mecánica del juego
  
@@ -68,8 +71,23 @@ Ambos afectan de manera negativa a nuestra carrera:
 
 Aparte de no permitirnos ver bien, dispondremos al final de la fase de un bonus de puntos por:
 
-- Terminar con un nivel bajo de toxicidad
-- Terminar con un nivel de dolor bajo
-- El tiempo sobrante
-- La cantidad de producto sobrante (se cuenta más adelante)
+Terminar con un nivel bajo de toxicidad
+Terminar con un nivel de dolor bajo
+El tiempo sobrante
+La cantidad de producto sobrante (se cuenta más adelante)
 
+Durante el transcurso de la fase nos encontraremos con distintos tipos de Power Ups:
+
+Incrementar la dosis de tratamiento base del dolor
+Decrementar la dosis de tratamiento base del dolor
+Instanyl 50 (Naranja)
+Instanyl 100 (Morado)
+Instanyl 200 (Azul verdoso)
+
+Incrementar la dosis de tratamiento base del dolor haría que la pendiente del escenario se incline más hacia abajo (rotando unos grados) por lo que ganaremos velocidad y reduciremos el nivel de dolor (al bajar la altitud), sin embargo se incrementará el nivel de toxicidad.
+
+Decrementar la dosis de tratamiento base del dolor tendrá el efecto inverso, haciendo que la pendiente se incremente, pero reduciendo progresivamente el nivel de toxicidad.
+
+En cierta manera estos dos potenciadores del tratamiento base nos permiten regular la pendiente para encontrar un compromiso entre los dos valores, haciendo que según valla evolucionando sea necesario coger algunos o dejarlos pasar.
+
+La estructura de cada “fase” será fija en lo referente a la curva y la localización de los distintos elementos por lo que el usuario deberá aprender donde saltar y que conviene coger en cada momento.
