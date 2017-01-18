@@ -2,13 +2,15 @@
 
 Este concepto de juego unifica las tres experiencias del proyecto inicial (diagnósico, aplicación e impacto emocional) en una sola más compacta y simplificada.
 
+La idea esencial es desplazarnos por la curva de dolor al estilo “infinite runner”.
+
 # Mapa
 
-Actua como pantalla de inicio y como principal metáfora de evolución, mostrando nuesrto progreso y el de nuestros principales competidores.
+Actúa como pantalla de inicio y como principal metáfora de evolución, mostrando nuestro progreso y el de nuestros principales competidores.
 
 En la pare superior veremos las "vidas" que tenemos disponibles (que se recuperan con el transcurso del tiempo).
 
-Este concepto de vidas con recuperación en el tiempo es el que nos permitirá potenciar el [efecto Zeigarnik](http://www.abc.es/tecnologia/moviles-aplicaciones/20130808/abci-candy-crush-saga-adictivo-201308071929.html) que será uno de los potenciadores claves de la experiencia (junto con el prestigio y la evolución).
+Esta modelo de vidas con recuperación en el tiempo es el que nos permitirá potenciar el efecto Zeigarnik que será uno de los potenciadores claves de la experiencia a largo plazo (junto con el prestigio social y el reto de evolución personal).
 
 También podremos acceder a los rankings (general, por perfil y geográficos) desde los que podremos seleccionar los usuarios "favoritos" que apareceran destacados en el mapa.
 
@@ -20,12 +22,54 @@ Esta cuenta será persistente entre dispositivos, pudiendo "autenticarme" en var
 
 En el mapa también podremos observar nuestro Score y los distintos "casos clínicos" que tenemos disponibles.
 
-Los distintos casos clínicos estarán representados por caras de pacientes (se visualizan como circulos con números en este caso).
+Los distintos casos clínicos estarán representados por caras de pacientes.
 
-Lo que no están disponibles están velados y los ya realizados presentan el estado de ánimo del paciente: en una evolución entre cara de dolor y de bienestar.
+Los que no están disponibles están velados (aquellas fases a las que aun no he llegado) y los ya realizados presentan el estado de ánimo del paciente: en una evolución entre cara de dolor y de bienestar.
 
-# La mecánica del juego 
+Seleccionando algunas de las caras se mostrará un pequeño perfil (para darle un mayor factor humano) y podremos jugar a ese caso concreto.
+
+La idea es que lo que nos encontremos en cada fase este relacionado con el perfil, teniendo que enfrentarnos a casos progresivamente más complejos con una curva de dificultad bien medida (en lo referente a gestión del dolor), pero que exploren varias dinámicas relacionadas con la descripción personal que se haga del caso.
+
+Por ejemplo un ejecutivo con un ritmo de vida frenético puede implicar un caso en el que el tiempo es muy limitado y en eso reside la dificultad de su gestión del dolor (y no tanto en que tenga un número elevado de crisis de dolor irruptivo.
+
+Cada uno de los casos puedo haberlo superado con mayor o mejor nivel de éxito. 
+
+Para cada uno habrá una puntuación mínima requerida para obtener dos o tres estrellas, incentivando la re-jugabilidad de los niveles hasta conseguir hacerlos perfectos.
+
+Bastará con terminar el nivel para obtener la primera estrella y poder pasar al siguiente, pero determinados puntos del recorrido solo podrán ser desbloqueados habiendo acumulado un Nº de estrellas determinado.
+
+# La mecánica del juego
+ 
+En el juego llevaremos a un corredor / patinador o similar (que en caso de querer hacerlo mas abstracto podría ser una esfera o algún tipo de objeto) que se desplaza rápidamente por la curva del dolor del paciente.
+ 
+Cuando dicha curva desciende ganará velocidad y cuando asciende se irá frenando.
+ 
+ Pulsando sobre cualquier parte de la pantalla saltaremos, pudiendo emplear esta dinámica para alcanzar Power Ups, esquivar obstáculos e impulsarnos haciendo que las bajadas coincidan curvas descendentes.
+ 
+Para evitar la frustración de que la repercusión de un error cometido al inicio solo tenga consecuencias a largo plazo y reducir al máximo la latencia entre el fallo y su consecuencia, el limite de tiempo se representará como un perseguidor virtual: Un derrumbamiento que nos persigue y que si no vamos suficientemente rápido (a causa de haber enfrentado demasiadas subidas de dolor) nos alcance y termine la partida perdiendo una vida.
+ 
+Esta metáfora podría ser desde una avalancha, un río de lava, una nube de niebla o cualquier otra cosa que simbolice que el dolor ha hecho que no pudiéramos superar el día a día y aguantar el ritmo.
 
 ![Pantalla 1](../design/resources/runner/juego-1.jpg)
 
+Un indicador a modo de mapa nos mostrará el punto del recorrido donde nos encontramos y la distancia que hemos conseguido acumular con respecto a nuestro perseguidor.
+
+También se mostrarán otros dos indicadores:
+
+- Nivel de dolor (la altitud a la que me encuentro en este momento)
+- Nivel de toxicidad 
+
+Ambos afectan de manera negativa a nuestra carrera:
+
+- El nivel de dolor tendrá un efecto visual e intensificará la música saturando los colores y afectando a la visibilidad.
+- El nivel de toxicidad aplicará otro filtro distinto, que afectará del mismo modo a nuestra capacidad para ver los elementos del escenario.
+
 ![Pantalla 2](../design/resources/runner/juego-2.jpg)
+
+Aparte de no permitirnos ver bien, dispondremos al final de la fase de un bonus de puntos por:
+
+- Terminar con un nivel bajo de toxicidad
+- Terminar con un nivel de dolor bajo
+- El tiempo sobrante
+- La cantidad de producto sobrante (se cuenta más adelante)
+
