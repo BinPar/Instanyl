@@ -64,7 +64,8 @@ En general, aunque la práctica clínica se aborda de forma diferente en funció
 
 Nos piden una app muy divertida, atractiva y que enganche al usuario. Nos van a valorar en el concurso por lo creativos que seamos en nuestra propuesta. 
 Quieren un programa de formación competitivo, de ingenio. No quieren un juego basado en pregunta y respuesta, no quieren un trivial. 
-Nuestro reto es pensar un juego que enganche, que sea divertido, manteniendo credibilidad, ingenio, serio (que no significa aburrido)
+Nuestro reto es pensar un juego que enganche, que sea divertido, manteniendo credibilidad, ingenio, serio (que no significa aburrido) teniendo preferencia en dinámica Arcade 
+
 Para el juego podríamos pensar en presencia de paciente: tipo tamagochi
 
 El proyecto/juego/app contará con su propio logo y naming, que respirarán los colores de producto, ya que es un proyecto promocional 
@@ -78,7 +79,7 @@ La eficacia del tratamiento del dolor irruptivo depende de realizar una evaluaci
 ## Tono 
 >Este punto dota de carácter a la acción y definirlo con acierto hace del proyecto un éxito.
 
-Serio, creíble, que no aburrido, con el componente lúdico indispensable, que rete, que enganche…
+Serio, creíble, que no aburrido, con el enfasis en el componente lúdico, que rete, que enganche…
 
 ## Cuestiones digitales a tener en cuenta
 
