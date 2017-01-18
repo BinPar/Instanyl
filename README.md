@@ -13,7 +13,7 @@ Concurso formación gamificación dolor irruptivo oncológico
 ## Fase 1: Definición
 
 - [x] [Briefing](./docs/briefing.md)
-  - [ ] [Definición de concepto](./docs/concepto.md) (Requerido para el lunes 16)
+  - [x] [Definición de concepto](./docs/concepto.md) (Requerido para el lunes 16)
     - [ ] Mockups
       - [ ] [Alcance funcional](./docs/alcance.md)
         - [ ] Wireframe
