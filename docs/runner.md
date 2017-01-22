@@ -110,3 +110,5 @@ Estas pulsaciones serán muy cortas variando según el tipo de obstáculo entre 
 Esta combinación de dinámicas nos permite ilustrar la naturaleza del producto pudiendo diseñar fases que requieran distintas estrategias para su resolución.
 
 Opcionalmente se podrían incorporar otros tratamientos del dolor irruptivo (por ejemplo de vía oral) que serían de efecto retardado y que sería necesario emplear de manera muy anticipada calculando cuando aparecería el dolor (mucho antes de que aparezca el obstáculo en pantalla). De esta manera podríamos crear dinámicas más complejas y reforzaríamos la principal ventaja del producto frente a sus competidores.
+
+[Ver presentación del concepto](../design/resources/presentacionRunner.png)
