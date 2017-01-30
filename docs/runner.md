@@ -121,9 +121,9 @@ El gancho a la reunión presencial sería trabajar 2 perfiles de pacientes muy c
 ![Reunión Presencial](../design/resources/runner/juego-3-preguntas.jpg)
 
 Dinámica de juego:
-- Solo se juega una partida, que es la que el ponente tiene en su pantalla
-- Será una partida pausada, con pausas para la toma de decisiones
-- El corredor va por el camino y se encuentra obstáculo. Sale pregunta y votan todos desde el iPad
-- Solo hay una respuesta correcta y un camino correcto. Se trataría de una especia de tutorial
+- Solo se juega una partida, que es la que el ponente tiene en su pantalla.
+- Será una partida pausada, con pausas para la toma de decisiones.
+- El corredor va por el camino y se encuentra obstáculo. Sale pregunta y votan todos desde el iPad.
+- Solo hay una respuesta correcta y un camino correcto. Se trataría de una especia de tutorial.
  
 Como ejemplo de esta dinámica se ha preparado un [caso de ejemplo](./resources/EjemoloInstanyl.pdf).
