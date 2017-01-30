@@ -112,3 +112,18 @@ Esta combinación de dinámicas nos permite ilustrar la naturaleza del producto 
 Opcionalmente se podrían incorporar otros tratamientos del dolor irruptivo (por ejemplo de vía oral) que serían de efecto retardado y que sería necesario emplear de manera muy anticipada calculando cuando aparecería el dolor (mucho antes de que aparezca el obstáculo en pantalla). De esta manera podríamos crear dinámicas más complejas y reforzaríamos la principal ventaja del producto frente a sus competidores.
 
 [Ver presentación del concepto](./resources/presentacionRunner.ppt)
+
+
+# Modo de juego durante la reunión presencial
+
+El gancho a la reunión presencial sería trabajar 2 perfiles de pacientes muy complejos, que dan mucho puntos para el ranking. Además el ponente experto les formará y dará las claves para jugar a estos casos más difíciles y así estarán preparados para superar las fases futuras, que serán complejas también.
+
+![Reunión Presencial](../design/resources/runner/juego-3-preguntas.jpg)
+
+Dinámica de juego:
+- Solo se juega una partida, que es la que el ponente tiene en su pantalla.
+- Será una partida pausada, con pausas para la toma de decisiones
+- El corredor va por el camino y se encuentra obstáculo. Sale pregunta y votan todos desde el iPad
+- Solo hay una respuesta correcta y un camino correcto. Se trataría de una especia de tutorial
+ 
+Como ejemplo de esta dinámica se ha preparado un [caso de ejemplo](./resources/EjemoloInstanyl.pdf)
