@@ -126,4 +126,4 @@ Dinámica de juego:
 - El corredor va por el camino y se encuentra obstáculo. Sale pregunta y votan todos desde el iPad
 - Solo hay una respuesta correcta y un camino correcto. Se trataría de una especia de tutorial
  
-Como ejemplo de esta dinámica se ha preparado un [caso de ejemplo](./resources/EjemoloInstanyl.pdf)
+Como ejemplo de esta dinámica se ha preparado un [caso de ejemplo](./resources/EjemoloInstanyl.pdf).
